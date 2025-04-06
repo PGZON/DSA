@@ -1,6 +1,7 @@
 package DAY_3;
 
 public class Stackk {
+
     protected int[] arr;
     private int top;
 
